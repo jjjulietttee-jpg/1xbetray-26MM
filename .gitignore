@@ -1,3 +1,6 @@
+# CI (not used)
+.gitlab-ci.yml
+
 # Miscellaneous
 *.class
 *.log
@@ -43,3 +46,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Android signing (not used)
+*.jks
+android/app/keystore.jks
