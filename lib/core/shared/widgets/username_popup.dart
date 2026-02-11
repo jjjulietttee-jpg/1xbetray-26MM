@@ -156,7 +156,7 @@ class _UsernamePopupState extends State<UsernamePopup>
                         
                         // Title
                         const CustomText.heading(
-                          'Welcome to Neon Vault!',
+                          'Welcome to 1Xylophone!',
                           textAlign: TextAlign.center,
                           glowColor: AppTheme.neonPurple,
                         ),

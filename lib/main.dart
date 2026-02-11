@@ -36,7 +36,7 @@ class NeonVaultApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
-      title: 'Neon Vault',
+      title: '1Xylophone',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.darkTheme,
       routerConfig: appRouter,

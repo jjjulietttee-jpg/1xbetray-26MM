@@ -22,7 +22,7 @@ class _OnboardingScreenState extends State<OnboardingScreen>
 
   final List<OnboardingPage> _pages = [
     OnboardingPage(
-      title: 'Welcome to\nNeon Vault',
+      title: 'Welcome to\n1Xylophone',
       subtitle: 'Dive into the world of neon games\nand exciting adventures',
       icon: Icons.games,
       gradient: [AppTheme.neonPurple, AppTheme.neonBlue],

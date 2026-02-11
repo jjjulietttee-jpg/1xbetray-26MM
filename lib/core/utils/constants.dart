@@ -1,6 +1,6 @@
 class AppConstants {
   // App Info
-  static const String appName = 'Neon Vault';
+  static const String appName = '1Xylophone';
   static const String appVersion = '1.0.0';
   
   // Animation Durations

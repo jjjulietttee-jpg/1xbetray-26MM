@@ -42,7 +42,7 @@ class _ProfileViewState extends State<_ProfileView> {
           initialName: initial,
           onSave: (n) => context.read<ProfileCubit>().savePlayerName(n),
           onSkip: isFirstTime ? () {} : null,
-          title: isFirstTime ? 'Welcome to Neon Vault!' : 'Change nickname',
+          title: isFirstTime ? 'Welcome to 1Xylophone!' : 'Change nickname',
           subtitle: isFirstTime ? 'Choose your player name' : 'Enter your player name',
         ),
       ),
